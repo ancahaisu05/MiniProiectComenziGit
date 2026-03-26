@@ -1,0 +1,2 @@
+# MiniProiectComenziGit
+MiniProiectComenziGit
