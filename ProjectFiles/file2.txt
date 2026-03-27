@@ -1,3 +1,2 @@
 Ana are pere.
 Ana are o prietena Maria.
-fac un commit complet gresit si ii dai push ca sa testez revert-ul
