@@ -1,2 +1,4 @@
 Ana are pere.
 Ana are o prietena Maria.
+
+simulez o pierdere ca sa fac reflog
