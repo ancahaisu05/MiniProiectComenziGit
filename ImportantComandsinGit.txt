@@ -1,0 +1,38 @@
+# Most important commands in GIT
+# inspect
+git status
+git log --oneline --decorate --graph --all
+git diff
+git show <hash>
+
+# staging/undo
+git add <file>
+git restore <file>
+git restore --staged <file>
+
+# commits
+git commit -m "msg"
+git commit --amend
+
+# branches
+git switch -c branch
+git merge branch
+git rebase main
+
+# remote
+git fetch
+git pull
+git push -u origin <branch>
+
+# undo history
+git revert <hash>
+git reset --soft|--mixed|--hard HEAD~1
+git reflog
+
+# stash
+git stash push -m "wip"
+git stash pop
+
+# misc
+git cherry-pick <hash>
+git tag v1.0.0
