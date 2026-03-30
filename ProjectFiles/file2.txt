@@ -1,2 +1,3 @@
 Ana are pere.
 Ana are o prietena Maria.
+test commit --amend
