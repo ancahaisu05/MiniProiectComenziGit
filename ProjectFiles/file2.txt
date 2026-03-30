@@ -2,4 +2,3 @@ Ana are pere.
 Ana are o prietena Maria.
 test commit --amend
 i forgot something
-test git reset --soft HEAD~1
