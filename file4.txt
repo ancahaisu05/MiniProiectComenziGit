@@ -1,1 +1,8 @@
+add new lines
+..
+.
+
+
+
+
 create a merge conflict
